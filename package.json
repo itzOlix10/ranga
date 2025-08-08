@@ -1,0 +1,13 @@
+{
+  "name": "valorant-rank-api",
+  "version": "1.0.0",
+  "description": "API do wyświetlania rangi Valorant na Twitchu przez StreamElements",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.18.2"
+  }
+}
